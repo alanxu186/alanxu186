@@ -1,7 +1,7 @@
 # 👨‍💻 Alan Xu
 
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/TdjQAgDIkRsYm1HUbt/giphy.gif?cid=ecf05e47nfkh45n7zv23clklyfv4byys7zj7z8ybk89w7o2h&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://media3.giphy.com/media/TdjQAgDIkRsYm1HUbt/giphy.gif?cid=ecf05e47nfkh45n7zv23clklyfv4byys7zj7z8ybk89w7o2h&rid=giphy.gif&ct=g" width="200"/>
 </div>
 
 **`Full Stack Software Engineer`**
