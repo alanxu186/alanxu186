@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-alanxu186&style=flat-square&color=blue" alt=""/>
     
   <h1>
-   Hello! My name is Alan Xu
+   Hello! My name is Alan Xu!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
