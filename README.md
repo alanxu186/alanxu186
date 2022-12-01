@@ -21,7 +21,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :computer: I am a passionate Software Engineer that specializes in Front-end development.
 - :page_with_curl: I love reading and keeping myself updated with the most recent tech news. 
-- :badminton:	When I am exhausted from coding, I love to play badminton to relieve my mind.
+- :badminton:	When I am exhausted from coding, I love to play badminton and weight lift to relieve my mind.
 - :incoming_envelope: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alan-xu-se/)
   
 ---
