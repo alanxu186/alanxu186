@@ -17,7 +17,7 @@
   
 :man_technologist: About Me : 
   
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from NYC.
+I am a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from NYC.
 
 - :computer: I am a passionate Software Engineer that specializes in Front-end development.
 - :page_with_curl: I love reading and keeping myself updated with the most recent tech news. 
