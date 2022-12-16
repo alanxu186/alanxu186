@@ -24,6 +24,11 @@ I am a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :badminton:	When I am exhausted from coding, I love to play badminton and weight lift to relieve my mind.
 - :incoming_envelope: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alan-xu-se/)
   
+Currently working on : 
+  
+- :books:	Leetcode 
+- :microscope: Covid-app
+  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
