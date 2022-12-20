@@ -26,8 +26,8 @@ I am a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
 Currently working on : 
   
-- :books:	Leetcode 
-- :microscope: Covid-app
+- :books:	Study Notes repo (DSA, leetcode questions)
+- :microscope: Covid-app 
   
 ---
 
