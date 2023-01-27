@@ -26,8 +26,8 @@ I am a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
 Currently working on : 
   
+- :art:	DALL-E Clone
 - :books:	Study Notes repo (DSA, leetcode questions)
-- :microscope: Covid-app 
   
 ---
 
