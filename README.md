@@ -29,6 +29,10 @@ Currently working on :
 - :art:	DALL-E Clone
 - :books:	Study Notes repo (DSA, leetcode questions)
   
+Next tasks to work on: 
+  
+- :dart: Portfolio in Next.js
+  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
