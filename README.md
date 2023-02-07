@@ -26,7 +26,7 @@ I am a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
 Currently working on : 
   
-- :art:	DALL-E Clone
+- :art:	DALL-E Clone (Deployed)
 - :books:	Study Notes repo (DSA, leetcode questions)
   
 Next tasks to work on: 
