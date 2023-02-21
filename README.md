@@ -31,7 +31,7 @@ Currently working on :
   
 Next tasks to work on: 
   
-- :dart: Portfolio in Next.js
+- :dart: Landing page in Next.js using Chakra UI and deploying it to Vercel
   
 ---
 
