@@ -24,14 +24,18 @@ I am a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :badminton:	When I am exhausted from coding, I love to play badminton and weight lift to relieve my mind.
 - :incoming_envelope: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alan-xu-se/)
   
+Recent Goals Achieved : 
+- :star: DALL-E Clone (Deployed :white_check_mark:)
+- :star: Landing page in Next.js using Chakra UI and deploying it to Vercel
+  
 Currently working on : 
-- :page_facing_up: Landing page in Next.js using Chakra UI and deploying it to Vercel
-- :art:	DALL-E Clone (Deployed :white_check_mark:)
+- :supervillain_man: Personal Portfolio
 - :books:	Study Notes repo (DSA, leetcode questions)
   
 Next tasks to work on: 
   
 - :dart: Learning TypeScript
+- :thought_balloon:	Messaging app in Next.js
   
 ---
 
